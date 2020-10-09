@@ -1,0 +1,15 @@
+# Filename   exposure 1/shutter_speed
+01.bmp 0.002      
+02.bmp 0.004      
+03.bmp 0.008      
+04.bmp 0.016666667
+05.bmp 0.033333333
+06.bmp 0.066666667
+07.bmp 0.125      
+08.bmp 0.25       
+09.bmp 0.5        
+10.bmp 1          
+11.bmp 2          
+12.bmp 4
+13.bmp 8
+14.bmp 15
