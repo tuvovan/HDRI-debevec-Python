@@ -16,10 +16,6 @@ The Keras Implementation of the [Recovering High Dynamic Range Radiance Maps fro
 - numpy
 - opencv
 
-```python
-pip install -r requirements.txt
-```
-
 ## Running
     ```
     python main.py --tonemap 'gamma' --cmap True
