@@ -47,7 +47,7 @@ optional arguments: -h, --help  show this help message and exit
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tuvovan/NHDRRNet/blob/master/LICENSE) file for details
 
 ## References
-[1] Recovering High Dynamic Range Radiance Maps from Photographs [link]](https://people.eecs.berkeley.edu/~malik/papers/debevec-malik97.pdf) - SIGGRAPH 97
+[1] Recovering High Dynamic Range Radiance Maps from Photographs [link](https://people.eecs.berkeley.edu/~malik/papers/debevec-malik97.pdf) - SIGGRAPH 97
 
 [3] Test data - [link](google.com)
 
